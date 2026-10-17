@@ -1,0 +1,14 @@
+.volver {
+  position: fixed;
+  left: 12px;
+  bottom: 12px;
+  z-index: 99990;
+  background: rgba(17, 17, 17, 0.88);
+  color: #fff;
+  font: 600 13px Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  padding: 8px 14px;
+  border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.volver:hover { background: #000; }
